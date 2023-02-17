@@ -11,13 +11,13 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libjpeg,
-        "lib/libjpeg.62.3.0.dylib",
+        "lib/libjpeg.62.4.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libturbojpeg,
-        "lib/libturbojpeg.0.2.0.dylib",
+        "lib/libturbojpeg.0.3.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
