@@ -1,151 +1,151 @@
 [[JpegTurbo]]
 arch = "aarch64"
-git-tree-sha1 = "49f7b99f4b67f821eb3979709e115f0595309cc5"
+git-tree-sha1 = "0256eb1bc32b9b7444ed202570fad8b2a2cd86e6"
 os = "macos"
 
     [[JpegTurbo.download]]
-    sha256 = "d7b7940e4b2c1c0643bd323c3e1c0668df9c935514d63ee614ba50458a596312"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.aarch64-apple-darwin.tar.gz"
+    sha256 = "33c4cf22d921d2d3ec993a60162d048a0f91c1f53cbeffb4b55ade3a6095f6f4"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.aarch64-apple-darwin.tar.gz"
 [[JpegTurbo]]
 arch = "aarch64"
-git-tree-sha1 = "22e9a1bbddd68c578ba2299c4beb497f0df928fe"
+git-tree-sha1 = "cc087cc7929c12d2d5364613404429f3ad76068f"
 libc = "glibc"
 os = "linux"
 
     [[JpegTurbo.download]]
-    sha256 = "f86877b66a9ea583d519d2acbf67a51c2ee97a9c3d5ef6d1b30f790d7238bcb9"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "b321d97eee4a64b33803cfd7a9cdfdcd0e15ab7d44b66cc2941ad341ce7e1306"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.aarch64-linux-gnu.tar.gz"
 [[JpegTurbo]]
 arch = "aarch64"
-git-tree-sha1 = "f5e3fc700295b7b4379000866351c02da4d27e87"
+git-tree-sha1 = "26f5be9ef0ad8725ae5fe584cdb523f459021db2"
 libc = "musl"
 os = "linux"
 
     [[JpegTurbo.download]]
-    sha256 = "08a31aecef67f4b6b16e42af4a214954bc9ca95adece8a1c0b357c18bb623e1a"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.aarch64-linux-musl.tar.gz"
+    sha256 = "705515c13558c5f9cbca58bbd3b6f00c0d4115fdcd4eb5c637ccb27a090cdb51"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.aarch64-linux-musl.tar.gz"
 [[JpegTurbo]]
 arch = "aarch64"
-git-tree-sha1 = "d25dc04a7005a5443844371685d76613d1b57b8e"
+git-tree-sha1 = "6a2927bcd3e13615de4126edf0ec6c27924ccd0c"
 os = "freebsd"
 
     [[JpegTurbo.download]]
-    sha256 = "8248ff4d98e2cfe936cbf98a4772d7b1b06575089c12ccc5c09674042dcadcd8"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "2629d1f7edaafc4471844b8c53eecff08f0c458461e17311be0738d45094e2f5"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.aarch64-unknown-freebsd.tar.gz"
 [[JpegTurbo]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "bb55491c7f9f5e0037fa394273cbdd2099d11c78"
+git-tree-sha1 = "e7f4bbb60a48ae6e6495b6258a840980f563440b"
 libc = "glibc"
 os = "linux"
 
     [[JpegTurbo.download]]
-    sha256 = "1d04c7bd71f2a7ee30200c91e9791e530390ce5d1e71ef35b5533eaf8057ecdb"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "451039135583ff2e6478c82848d28782141face78a9c186e58237ff0802f696e"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.armv6l-linux-gnueabihf.tar.gz"
 [[JpegTurbo]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "44f17b5c5b9cbd5be2e8f0eceef9b1fc12da4bf9"
+git-tree-sha1 = "740e76ebc25f99fc7f444c6d3eb57be150c54038"
 libc = "musl"
 os = "linux"
 
     [[JpegTurbo.download]]
-    sha256 = "396ce9e351f9134ed415b87efe1f00de8344d1f72e200c4238194e75132bbeb8"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "951a6c910128cbdf174bf50c85cafc4770dfbedd8ed2cc896762a02817d8b725"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.armv6l-linux-musleabihf.tar.gz"
 [[JpegTurbo]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4670f393c25fdb7740267effc7c3d3d817af542e"
+git-tree-sha1 = "2dea9f13c2509094b462f1ad4b9676dc342b4f8c"
 libc = "glibc"
 os = "linux"
 
     [[JpegTurbo.download]]
-    sha256 = "cb10aeb923dacfc80f7a79eeb90251aaa216df5cd36569114290e263c2dcca64"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "4d6cecbd4080500bad3dba2de0022f4645dd235911524ce41d1c2c70cd5a2954"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.armv7l-linux-gnueabihf.tar.gz"
 [[JpegTurbo]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "7383379827ca290a30469f438be4ce74109dd62a"
+git-tree-sha1 = "1938a9878db613856ba7dffb335325c4eea2397e"
 libc = "musl"
 os = "linux"
 
     [[JpegTurbo.download]]
-    sha256 = "f1532e475eeb6b260e5476b958fc1bdd425111ff4dfd8908ca93f39ed6636afa"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "051dd585874c537143881b173ed4f1d27e41034a9e49caf6aa724e83f8659103"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.armv7l-linux-musleabihf.tar.gz"
 [[JpegTurbo]]
 arch = "i686"
-git-tree-sha1 = "131e95f649cee4f98ae1555e7bc9f383f89e4464"
+git-tree-sha1 = "d59c38516d72a09cb179c04ff4708482705c59ed"
 libc = "glibc"
 os = "linux"
 
     [[JpegTurbo.download]]
-    sha256 = "b3c9ee8b0a979611b78174f00b743e5932885652777690b1ca2bf81e416254ea"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.i686-linux-gnu.tar.gz"
+    sha256 = "c3a973affd2452d58f36dbc65c1e834e36cb65704b4d48eab973e6f762d4a9ad"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.i686-linux-gnu.tar.gz"
 [[JpegTurbo]]
 arch = "i686"
-git-tree-sha1 = "bb6a209e600d6e56ce32805aa4f49c589fac5d5e"
+git-tree-sha1 = "0345fe59057659140ae060e5e0f391ec9e9fe0b8"
 libc = "musl"
 os = "linux"
 
     [[JpegTurbo.download]]
-    sha256 = "91121fa12cd1d5b2eb2cddbab0f514920d8628359775869998aa243ab1bcf696"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.i686-linux-musl.tar.gz"
+    sha256 = "e9b7a34c33c81a1b57b2d3dced902ca8b34d4e4f81eb7eff37d3a830a6bcf87b"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.i686-linux-musl.tar.gz"
 [[JpegTurbo]]
 arch = "i686"
-git-tree-sha1 = "71d313c2b8a32bb8aeaad5d9b44c5745c1c3e519"
+git-tree-sha1 = "f22d656545ec92f289db749a5af6e156fafb4ec8"
 os = "windows"
 
     [[JpegTurbo.download]]
-    sha256 = "4745885e73c3dd4895b7540ee4e9fbb3600ef72f1aef0975e54835aedcbe839b"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.i686-w64-mingw32.tar.gz"
+    sha256 = "67b124b1078c02e655c7f4a33d1fe8f71d7d6beaa4d1aa43d420d82e2e838979"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.i686-w64-mingw32.tar.gz"
 [[JpegTurbo]]
 arch = "powerpc64le"
-git-tree-sha1 = "a3462c117a3faa49c0728fe1353224a78629f2e4"
+git-tree-sha1 = "4eda047d868d01669ded26adfa1cabedf6e3767c"
 libc = "glibc"
 os = "linux"
 
     [[JpegTurbo.download]]
-    sha256 = "28e3d2f6c443106d78196995a5549c1765d7303ce65a7023050232dbad085711"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "9a4e7ee1e12340bc15d99a74d1fb7f691c50068484d1dfd2ad5eb772a03361b1"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.powerpc64le-linux-gnu.tar.gz"
 [[JpegTurbo]]
 arch = "x86_64"
-git-tree-sha1 = "cbcd2bc73d2e8daffff299d0e59d551cc9e90d76"
+git-tree-sha1 = "d5d47b71e041f5e9734620599b06804bc0cfa54b"
 os = "macos"
 
     [[JpegTurbo.download]]
-    sha256 = "4c4b004bc7114b8b1840ec27bc8d930cf3ac98330091b784369db7c7c121c3f1"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "f475f7da4ba2fd868730660b97d6fad9e597fccc6588af9d644075414d8c6836"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.x86_64-apple-darwin.tar.gz"
 [[JpegTurbo]]
 arch = "x86_64"
-git-tree-sha1 = "71f3593804fb3a115f7fcb71b20c4e1f9b32290f"
+git-tree-sha1 = "cb11dc93c1c43dfb18210a9037d1329d5497cbf1"
 libc = "glibc"
 os = "linux"
 
     [[JpegTurbo.download]]
-    sha256 = "a28bc2735186a10be6ab7dea3e83019033c49b4d18314f7f4bdc71eed1d7f31e"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "ee4a5cf3e4450fd6b4e8f63a8f51d5a81b8e20c1a378ce5cfdf22c65058c34b3"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.x86_64-linux-gnu.tar.gz"
 [[JpegTurbo]]
 arch = "x86_64"
-git-tree-sha1 = "b0e9d7a2042e588fb3db20b9274d348f7da490c1"
+git-tree-sha1 = "77dc5b2148621ba90fc4946fd090690e5b4a1b04"
 libc = "musl"
 os = "linux"
 
     [[JpegTurbo.download]]
-    sha256 = "4dd5314104068cac79a883019a8a0652e8be98d076ff15d6237d8f6fe7a30917"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.x86_64-linux-musl.tar.gz"
+    sha256 = "590e0d99639c461005100e569edc9ae19ba62e882d5367f5127ca630b9fab6b8"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.x86_64-linux-musl.tar.gz"
 [[JpegTurbo]]
 arch = "x86_64"
-git-tree-sha1 = "aa8002867076606869d628558cd2ee62f99f1672"
+git-tree-sha1 = "8a876fbd66214dca789f2e853e2e75bbbdc149cb"
 os = "freebsd"
 
     [[JpegTurbo.download]]
-    sha256 = "56807fb321e895f773bf042348274b3e204ee57274836b2c7e985c000143b022"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "cd345f969790cf0fa97ac45e9d16161f706c8c4316065d93df205656e9c7e272"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.x86_64-unknown-freebsd.tar.gz"
 [[JpegTurbo]]
 arch = "x86_64"
-git-tree-sha1 = "c7124809a90d597e486fb6f123746eab68992392"
+git-tree-sha1 = "c9337de24d0273ba51df5a896d276f87e5c75cec"
 os = "windows"
 
     [[JpegTurbo.download]]
-    sha256 = "14e4f2ecfc4949975314f3f85191e638442f1d82cc3cccc8d7bf033836f6aa44"
-    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.0.4+0/JpegTurbo.v3.0.4.x86_64-w64-mingw32.tar.gz"
+    sha256 = "f9f5e013899d7b49f91a937d669412f5f1f4791a72da449f1c70feb226d03ab1"
+    url = "https://github.com/JuliaBinaryWrappers/JpegTurbo_jll.jl/releases/download/JpegTurbo-v3.1.0+0/JpegTurbo.v3.1.0.x86_64-w64-mingw32.tar.gz"

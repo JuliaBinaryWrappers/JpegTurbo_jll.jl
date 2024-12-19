@@ -17,7 +17,7 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         libturbojpeg,
-        "lib/libturbojpeg.0.3.0.dylib",
+        "lib/libturbojpeg.0.4.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
