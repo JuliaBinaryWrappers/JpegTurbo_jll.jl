@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("JpegTurbo")
-JLLWrappers.@generate_main_file("JpegTurbo", UUID("aacddb02-875f-59d6-b918-886e6ef4fbf8"))
+JLLWrappers.@generate_main_file("JpegTurbo", Base.UUID("aacddb02-875f-59d6-b918-886e6ef4fbf8"))
 end  # module JpegTurbo_jll
